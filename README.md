@@ -32,4 +32,5 @@ A JavaScript project replicating Moniepoint’s transaction flows to practice in
 
 ## 📊 GitHub Stats
 
-![Manny's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Manny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onwuka2007&show_icons=true&theme=radical)
+
