@@ -15,7 +15,7 @@ I'm a Computer Science student and front-end developer passionate about building
 
 ### **Made4You E-commerce UI**
 A modern, responsive front-end showcasing Nigerian fashion. Built with HTML, CSS, Tailwind CSS, JavaScript, and Firebase Auth.  
-[View Repo](https://github.com/Onwuka2007/made4you-ecommerce-web.git)
+[View Repo](https://github.com/Onwuka2007/made4you-ecommerce-public.git)
 
 ### **Moniepoint Transaction Clone**
 A JavaScript project replicating Moniepoint’s transaction flows to practice interactivity and front-end logic.  
