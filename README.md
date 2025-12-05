@@ -35,5 +35,6 @@ A responsive, SEO-optimized school website designed to improve communication and
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Onwuka2007)
 
 ## 📊 GitHub Stats
-
 ![Manny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onwuka2007&show_icons=true&theme=radical)
+
+<p style='text-align: center; font-size: 12px;'>Some repos are trimmed-down showcases — the full builds stay private. Open for collaboration, just contact me.</p>
