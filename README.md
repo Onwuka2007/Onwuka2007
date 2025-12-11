@@ -1,4 +1,4 @@
-### <p align="center" style="font-size:16px;">Hi there 👋<br>My name is Emmanuel</p>
+## <p align="center" style="font-size:16px;border-bottom:2px solid gray">Hi there 👋<br>My name is Emmanuel</p>
 
 <p style="font-size:12px;">I'm a Frontend Developer building projects with HTML, CSS, and JavaScript. Currently focusing on creating clean UI/UX designs and interactive web experiences.</p>
 
