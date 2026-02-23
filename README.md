@@ -6,7 +6,7 @@ I'm a Frontend Developer building projects with HTML, CSS, and JavaScript. Curre
 [![GitHub followers](https://img.shields.io/github/followers/yourgithubusername?label=Follow&style=social)](https://github.com/Onwuka2007)
 
 <b>BIO</b>
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.jsx`, `tailwind`, `firebase`
+- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, 
 - 🌱 Learning: `MongoDB`, `ExpressJS`, `NextJS`
 - 🧩 Always open to connect
 - 📬 Reach me via email or [YouTube](https://www.youtube.com/@themannyverse)
