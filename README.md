@@ -73,7 +73,7 @@
   </p>
 
   <a href="https://www.youtube.com/@themannyverse">Watch my journey →</a> • 
-  <a href="mailto:your.email@example.com">Drop me a line</a>
+  <a href="mailto:onwuka.em@example.com">Drop me a line</a>
 
 </div>
 
