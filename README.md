@@ -1,10 +1,10 @@
 <!-- <div align="center"> -->
-
+<h3>Welcome to my corner 👋</h3>
   <!-- Animated Typing Header --
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=42&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B;I'm+Manny+%F0%9F%8C%8C" alt="Typing SVG" />
-
+<
   <h3>Frontend Engineer • Pixel-Perfect Designer • Product Thinker</h3>
-
+<
   <p>
     Crafting thoughtful, delightful digital experiences with clean code and obsessive attention to detail.
   </p>
